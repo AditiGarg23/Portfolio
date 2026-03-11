@@ -10,7 +10,7 @@ const Footer = () => {
           <a href="#" className="flex items-center gap-2 text-foreground group">
             <Terminal className="w-5 h-5 text-primary" />
             <span className="font-mono font-bold">
-              <span className="text-primary">&lt;</span>dev<span className="text-primary">/&gt;</span>
+              <span className="text-primary">&lt;</span>AG<span className="text-primary">/&gt;</span>
             </span>
           </a>
           <p className="text-sm text-muted-foreground flex items-center gap-1">
