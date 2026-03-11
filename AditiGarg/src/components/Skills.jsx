@@ -27,13 +27,14 @@ const skillCategories = [
       { name: "Git / Github", level: 75 },
       { name: "VS Code", level: 85 },
       { name: "Google Colab", level: 75 },
+      { name: "Swagger", level: 65 },
     ],
   },
 ];
 
 const techStack = [
   "HTML5", "CSS3", "React", "JavaScript", "Bootstrap","Tailwind CSS", "C", "Python", "SQLite","MySQL", "FastAPI", 
-  "Flask", "Git", "GitHub", "Figma"
+  "Flask", "Git", "GitHub", "Swagger", "Figma"
 ];
 
 const Skills = () => {
